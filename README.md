@@ -99,5 +99,4 @@ MIT License — free to use, modify, and share.
 
 ---
 
-Would you like me to make it **downloadable** as `README.md` so you can add it directly to your GitHub project folder?
-```
+
