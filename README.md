@@ -1,4 +1,3 @@
-
 # 🖼️ Meme Maker (Python + Tkinter + Pillow)
 
 A simple and fun **GUI Meme Generator** built using **Python**, **Tkinter**, and **Pillow**.  
